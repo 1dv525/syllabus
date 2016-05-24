@@ -1,5 +1,7 @@
 ## Planning
 
+Hej
+
 Week | Material | Lectures |To do
 -----|----------|----------|--------------
 1    | p. 143-213 | Introduction<br>Lecture |Start out with Exam assignment 1
