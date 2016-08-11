@@ -4,4 +4,5 @@
 
 ## Content
 * The web browser (internal structure, security models, developer tools)
-* CSS and HTML
+* From Java to JavaScript
+* JavaScript in relation to CSS and HTML
