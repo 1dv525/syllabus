@@ -2,5 +2,5 @@
 Course introduction
 
 ## Resources
-- [HTML-presentation](https://rawgit.com/1dv022/syllabus/master/lectures/00/index.html#/)
-- [Recording](https://youtu.be/CaxatFH2WmQ) 2015-11-02, 13-15 (Youtube)
+- [HTML-presentation](https://rawgit.com/1dv525/syllabus/master/lectures/intro/index.html#/)
+- [Recording](#) 2015-09-30, 09:30-10:00 (Youtube)
