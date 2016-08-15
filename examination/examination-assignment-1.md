@@ -11,3 +11,8 @@ This examination is worth 1 credit (1hp) and will test the following objective:
 
 
 ### Finishing up
+
+
+## Oral hearing
+
+## Book time
