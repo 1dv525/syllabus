@@ -30,12 +30,12 @@ The minimum subpages should be:
 
 For more information see image 1.1 below.
 
-![image 1.1](./images/structure.png)
+![image 1.1](https://github.com/1dv525/syllabus/raw/master/examination/images/structure.png)
 
 IMAGE 1.1 - Structure of the web site
 
 
-![image 1.2](./images/contactform.png)
+![image 1.2](https://github.com/1dv525/syllabus/raw/master/examination/images/contactform.png)
 
 IMAGE 1.2 - The contact form
 
@@ -52,7 +52,7 @@ Now it is time to style your HTML pages. All CSS should be in separate files and
 * The links (at least in the menu) should have some hover effect (feel free to experiment)
 * Use CSS to include at least one background image
 
-![Image 2.1](./images/layout.png)
+![Image 2.1](https://github.com/1dv525/syllabus/raw/master/examination/images/layout.png)
 
 IMAGE 2.1
 
