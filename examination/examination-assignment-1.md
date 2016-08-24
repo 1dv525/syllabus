@@ -13,7 +13,7 @@ The idea of this practical assignment is that you will create a web site contain
 
 You are free to use things like static site generators as Jekyll and CSS Preprocessors if you want.
 
-### Part 1 - HTML and structure
+## Part 1 - HTML and structure
 In this part we are going to start working with HTML and structure our web site
 
 The web site should at least contain one landing page (start page) and three sub pages. You should be able to click around the site trough a menu that is always present on every page.
@@ -33,11 +33,11 @@ For more information see image 1.1 below.
 IMAGE 1.1
 IMAGE 1.2
 
-#### Think about
+### Think about
 * Make sure you structure or files and folders in a good way. Maybe one folder for images, one for pages, one for stylesheets and so on
 
 
-### Part 2 - CSS
+## Part 2 - CSS
 
 Now it is time to style your HTML pages. All CSS should be in separate files and be linked in trough the stylesheet tag. The web sites layout should be like image 2.1.
 
@@ -48,7 +48,7 @@ Now it is time to style your HTML pages. All CSS should be in separate files and
 
 IMAGE 2.1
 
-#### Part 3 - other stuff
+## Part 3 - other stuff
 * Insert a hCard about you self on your blog page. To do this check out: http://microformats.org/code/hcard/creator. Try it by using: http://www.google.com/webmasters/tools/richsnippets
 * Learn about and create a robot.txt for your site. The contact page should not be indexed by search engines
 * Learn about and create a human.txt for your site
