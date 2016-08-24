@@ -24,14 +24,20 @@ The minimum subpages should be:
   * One working image tag (relative URL to the image)
   * One working video tag (find and use an external URL)
 * Blog/news - This page should contain at least two blog posts build by using HTML5 tags
-* Contact - This page should contain a correct HTML form supporting an HTTP POST method. Se image (1.2) below for minimal content.
+* Contact - This page should contain a correct HTML form supporting an HTTP POST method. The user should be able to enter his/her name (required), email (required),
 
 * All sub pages should be available through a menu that should be present in every page.
 
 For more information see image 1.1 below.
 
-IMAGE 1.1
-IMAGE 1.2
+![image 1.1](./images/structure.png)
+
+IMAGE 1.1 - Structure of the web site
+
+
+![image 1.2](./images/contactform.png)
+
+IMAGE 1.2 - The contact form
 
 ### Think about
 * Make sure you structure or files and folders in a good way. Maybe one folder for images, one for pages, one for stylesheets and so on
@@ -39,12 +45,14 @@ IMAGE 1.2
 
 ## Part 2 - CSS
 
-Now it is time to style your HTML pages. All CSS should be in separate files and be linked in trough the stylesheet tag. The web sites layout should be like image 2.1.
+Now it is time to style your HTML pages. All CSS should be in separate files and be linked in trough the stylesheet tag. The web sites layout should be like image 2.1, a simple three-column layout.
 
 * All pages should have the CSS rules to get a consistent feeling.
 * All pages should be centered when you resize your web browser window.
 * The links (at least in the menu) should have some hover effect (feel free to experiment)
 * Use CSS to include at least one background image
+
+![Image 2.1](./images/layout.png)
 
 IMAGE 2.1
 
