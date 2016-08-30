@@ -75,3 +75,7 @@ Whitout to mutch effort (in code) you should be able to add articles to your blo
 
 ## Oral hearing
 The examination will be done as an oral hearing where you get a couple of theoretical questions from this part and also show your practical assignment. You can´t book a time for oral hearing before you are ready with the assignment and have done a release on GitHub.
+
+Campus students Växjö: Conference rooms in the B-buildning
+Campus students Kalmar: Teacher/staff hall on Kalmar Nyckel
+Distans students: Skype. Meetup: [Adobe Connect Exam room](	https://connect.sunet.se/exam-1dv022/)
