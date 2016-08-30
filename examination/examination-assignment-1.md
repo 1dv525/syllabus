@@ -11,7 +11,7 @@ Make sure you have gone through the [getting stated guide](https://coursepress.l
 ## Practical assignment
 The idea of this practical assignment is that you will create a web site containing a couple of web pages. The first part is about structuring the site with HTML, in later part you will style your pages with CSS.
 
-You are free to use things like static site generators as [Jekyll](https://jekyllrb.com/) and CSS Preprocessors like [Sass](http://sass-lang.com/) if you want.
+You are free to use tools like static site generators as [Jekyll](https://jekyllrb.com/) and CSS Preprocessors like [Sass](http://sass-lang.com/) if you want.
 
 ## Part 1 - HTML and structure
 In this part we are going to start working with HTML and structure our web site
@@ -42,6 +42,7 @@ IMAGE 1.2 - The contact form
 
 ### Think about
 * Make sure you structure or files and folders in a good way. Maybe one folder for images, one for pages, one for stylesheets and so on...
+* Think of the semantic meaning of the page elements and their order
 
 
 ## Part 2 - CSS
@@ -61,11 +62,16 @@ IMAGE 2.1
 
 
 ## Part 3 - other stuff
-* Insert a hCard about you self on your blog page. To do this check out: http://microformats.org/code/hcard/creator. Try it by using: http://www.google.com/webmasters/tools/richsnippets
+* You should use open graph for easy sharing on social media. You should at least use "title", "url", "type" and "image". You can check if it is working by sharing your site on for instance Facebook or Twitter. You should use open graph for easy sharing on social media. You should at least use "title", "url", "type" and "image". You can check if it is working by sharing your site on for instance Facebook or Twitter.
 * Learn about and create a robot.txt for your site. The contact page should not be indexed by search engines
 * Learn about and create a human.txt for your site
 
+## Part 4 - Posts
+Whitout to mutch effort (in code) you should be able to add articles to your blog/news page. Do so by reflecting around the following subjects. One article per subject.
+* What is robots.txt and how have you configure it for your site?
+* What is humans.txt and how have you configure it for your site?
+* What is Open Graph and how do you make use of it?
+* Why is it important to seperate the layout and design (css) from content (html)?
+
 ## Oral hearing
 The examination will be done as an oral hearing where you get a couple of theoretical questions from this part and also show your practical assignment. You can´t book a time for oral hearing before you are ready with the assignment and have done a release on GitHub.
-
-## Book time
