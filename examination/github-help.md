@@ -1,4 +1,4 @@
-## Github help
+## GitHub pages help
 In this course we will use GitHub for your code. This mean that you should commit your code through Git and push it up to GitHub several times per examination assignment. In the first assignment we also use GitHub to run as a web server serving your html-pages to the browser. This is done through something called GitHub Pages and we have turn that feature on at your examination-1 repository. Therefore is it important that you do commits to your master branch to get the pages live on the GitHub Pages servers.
 
 If you need to freshen up your Git and GitHub skills please watch the tutorials linked in the ["Getting started"- page](https://coursepress.lnu.se/kurs/introduction-to-web-programming/getting-started/). We can also recommend this interactive guide: https://try.github.io/
@@ -15,7 +15,7 @@ The first thing to do is to clone your repo to your local computer. First go to 
 
 ![Clone URL](https://github.com/1dv525/syllabus/raw/master/examination/images/clone_url.png)
 
-Copy the URL, open up your terminal window make a directory where you want to store your working files and run the "git clone"-command on your URL. In this example the LNU-username used is "thajostudent".
+Copy the URL - I use the SSH URL since I prefer that but the default https-link will also work, open up your terminal window make a directory where you want to store your working files and run the "git clone"-command on your URL. In this example the LNU-username used is "thajostudent".
 
 ![Clone command](https://github.com/1dv525/syllabus/raw/master/examination/images/git_commands1.png)
 
