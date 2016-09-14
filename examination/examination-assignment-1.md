@@ -64,8 +64,8 @@ IMAGE 2.1
 
 ## Part 3 - other stuff
 * You should use open graph for easy sharing on social media. You should at least use "title", "url", "type" and "image". You can check if it is working by sharing your site on for instance Facebook or Twitter. You should use open graph for easy sharing on social media. You should at least use "title", "url", "type" and "image". You can check if it is working by sharing your site on for instance Facebook or Twitter.
-* Learn about and create a robot.txt for your site. The contact page should not be indexed by search engines
-* Learn about and create a human.txt for your site
+* Learn about and create a robots.txt for your site. The contact page should not be indexed by search engines
+* Learn about and create a humans.txt for your site
 
 ## Part 4 - Posts
 Whitout to mutch effort (in code) you should be able to add articles to your blog/news page. Do so by reflecting around the following subjects. One article per subject.
