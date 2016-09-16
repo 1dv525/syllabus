@@ -2,8 +2,9 @@ This examination is worth 1 credit (1hp) and will test the following objective:
 - create web pages using html and css
 
 ### Deadline and submission
-* Deadline: 12/9 2016 12.00
+* Deadline: 2016-09-12 12.00
 * Submit: Submit your assignment by doing a release on GitHub named "v1.0". In case of changes after a released version please use incremental version numbers, i.e. "v1.1", "v1.22 etc.
+* OBS! **You must commit all your code to GitHub** (not using some upload form) and make sure that your web site is visible through your *public* URL like https://1dv525.github.io/xx222xx-examination-1/ where xx222xx is your username at LNU. Follow [this guide](https://coursepress.lnu.se/kurs/introduction-to-web-programming/github-pages/) to see how.
 
 ### Preparation
 Make sure you have gone through the [getting stated guide](https://coursepress.lnu.se/kurs/introduction-to-web-programming/getting-started/) and have all the necessary tools installed and have done all registrations.
@@ -63,8 +64,8 @@ IMAGE 2.1
 
 ## Part 3 - other stuff
 * You should use open graph for easy sharing on social media. You should at least use "title", "url", "type" and "image". You can check if it is working by sharing your site on for instance Facebook or Twitter. You should use open graph for easy sharing on social media. You should at least use "title", "url", "type" and "image". You can check if it is working by sharing your site on for instance Facebook or Twitter.
-* Learn about and create a robot.txt for your site. The contact page should not be indexed by search engines
-* Learn about and create a human.txt for your site
+* Learn about and create a robots.txt for your site. The contact page should not be indexed by search engines
+* Learn about and create a humans.txt for your site
 
 ## Part 4 - Posts
 Whitout to mutch effort (in code) you should be able to add articles to your blog/news page. Do so by reflecting around the following subjects. One article per subject.
@@ -74,8 +75,7 @@ Whitout to mutch effort (in code) you should be able to add articles to your blo
 * Why is it important to seperate the layout and design (css) from content (html)?
 
 ## Oral hearing
-The examination will be done as an oral hearing where you get a couple of theoretical questions from this part and also show your practical assignment. You can´t book a time for oral hearing before you are ready with the assignment and have done a release on GitHub.
+The examination will be done as an oral hearing where you get a couple of theoretical questions from this part (Lecture 1 and 2, HTML & CSS, not the JavaScript lectures) and also show your practical assignment. You can´t book a time for oral hearing before you are ready with the assignment and have done a release on GitHub.
 
 * Campus students Växjö: Conference rooms in the B-buildning
-* Campus students Kalmar: Teacher/staff hall on Kalmar Nyckel
-* Distans students: Skype. Meetup: [Adobe Connect Exam room](	https://connect.sunet.se/exam-1dv022/)
+* Distans students: Skype. Meetup: [Adobe Connect Exam room](	https://connect.sunet.se/exam-1dv525/)
