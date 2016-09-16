@@ -6,6 +6,8 @@ Make sure you have watched the introductory demos and resources:
 
 
 ## Exercises
+Exercises are not mandantory and will not be corrected by the corse management. However, you will have a better chance of doing the assignments in the course if you first do the exercises.
+
 Exercises below are in seperate branches in the ["exercise"-repo](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise). Please watch the introduction above before continuing. In case you have multiple virtual machines running on you computer you may run in to problem doing `vagrant up`. In that case, please halt the other machines and try `vagrant up` again.
 
 [Read the instructions here](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/blob/master/README.md) to get started.
