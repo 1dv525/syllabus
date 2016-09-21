@@ -54,7 +54,7 @@ The assignments are devided in to seperate levels, A, B and C where C is the mos
 | Solutions | [Extended recording](https://youtu.be/I7HJwo98EQE)|
 
 
-##Temple of DOM TODO: Translate all
+##Temple of DOM
 |  |  |
 | ------------- | ------------- |
 |  branch | [temple-of-DOM](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/tree/temple-of-DOM) |
@@ -64,7 +64,7 @@ The assignments are devided in to seperate levels, A, B and C where C is the mos
 | Keywords| DOM, recursive, templates|
 | Readme | [Instructions](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/blob/temple-of-DOM/exercise/temple-of-dom/README.md)|
 
-##Click Game TODO:Translate
+##Click Game
 |  |  |
 | ------------- | ------------- |
 |  branch | [click-game](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/tree/click-game) |
