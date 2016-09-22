@@ -3,6 +3,7 @@ Make sure you have watched the introductory demos and resources:
 
 * [Getting started (resource)](https://coursepress.lnu.se/kurs/introduction-to-web-programming/getting-started/)
 * [Starting out with the exercises (YouTube)](https://youtu.be/hTGhzYGqLKI)
+* [Fix for one steg in the video above](https://youtu.be/0D9dbTJWRMw)
 
 
 ## Exercises
