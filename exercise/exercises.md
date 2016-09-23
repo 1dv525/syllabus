@@ -32,6 +32,7 @@ The assignments are devided in to seperate levels, A, B and C where C is the mos
 | Study week  | 3-4 |
 | Lectures| <= L06 |
 | Keywords| Getting started, DOM, Events, Templates, Document Fragment|
+| Solutions| [Code](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise-solutions/tree/master/exercise/tiny-tunes) |
 
 ##LNU it
 |  |  |
@@ -42,6 +43,7 @@ The assignments are devided in to seperate levels, A, B and C where C is the mos
 | Lectures| <= L06 |
 | Keywords| Getting started, DOM, Style manipulation|
 | Readme | [Instructions](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/blob/lnu-it/exercise/lnu-it/README.md)|
+| Solutions | [Code](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise-solutions/tree/master/exercise/lnu-it/client)|
 
 ##BartBoard
 |  |  |
@@ -64,6 +66,7 @@ The assignments are devided in to seperate levels, A, B and C where C is the mos
 | Lectures| <= L06 |
 | Keywords| DOM, recursive, templates|
 | Readme | [Instructions](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/blob/temple-of-DOM/exercise/temple-of-dom/README.md)|
+| Solutions | [Code](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise-solutions/tree/master/exercise/temple-of-dom/client) |
 
 ##Click Game
 |  |  |
@@ -74,6 +77,7 @@ The assignments are devided in to seperate levels, A, B and C where C is the mos
 | Lectures| <= L06 |
 | Keywords| DOM, style manipulation, event, timers|
 | Readme | [Instructions](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/tree/click-game/exercise/click-game)|
+| Solutions| [Code](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise-solutions/tree/master/exercise/click-game) |
 
 ##Memory Game
 |  |  |
@@ -84,4 +88,4 @@ The assignments are devided in to seperate levels, A, B and C where C is the mos
 | Lectures| <= L06 |
 | Keywords| DOM, style manipulation, event, timers|
 | Readme | [Instructions](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/blob/memory/exercise/memory/README.md)|
-| Solutions | Code<br>[Extended recording](https://youtu.be/8Mt0Buk3rK0)|
+| Solutions | [Extended recording](https://youtu.be/8Mt0Buk3rK0)|
