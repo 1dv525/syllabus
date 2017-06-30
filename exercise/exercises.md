@@ -25,7 +25,6 @@ The assignments are devided in to seperate levels, A, B and C where C is the mos
 ***
 
 ## Tiny Tunes
-
 |  |  |
 | ------------- | ------------- |
 |  branch | [tiny-tunes](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/tree/tiny-tunes) |
@@ -46,7 +45,7 @@ The assignments are devided in to seperate levels, A, B and C where C is the mos
 | Readme | [Instructions](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/blob/lnu-it/exercise/lnu-it/README.md)|
 | Solutions | [Code](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise-solutions/tree/master/exercise/lnu-it/client)|
 
-##BartBoard
+## BartBoard
 |  |  |
 | ------------- | ------------- |
 |  branch | [bartboard](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/tree/bartboard) |
@@ -58,7 +57,7 @@ The assignments are devided in to seperate levels, A, B and C where C is the mos
 | Solutions | [Extended recording](https://youtu.be/I7HJwo98EQE)|
 
 
-##Temple of DOM
+## Temple of DOM
 |  |  |
 | ------------- | ------------- |
 |  branch | [temple-of-DOM](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/tree/temple-of-DOM) |
@@ -69,7 +68,7 @@ The assignments are devided in to seperate levels, A, B and C where C is the mos
 | Readme | [Instructions](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/blob/temple-of-DOM/exercise/temple-of-dom/README.md)|
 | Solutions | [Code](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise-solutions/tree/master/exercise/temple-of-dom/client) |
 
-##Click Game
+## Click Game
 |  |  |
 | ------------- | ------------- |
 |  branch | [click-game](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/tree/click-game) |
@@ -80,7 +79,7 @@ The assignments are devided in to seperate levels, A, B and C where C is the mos
 | Readme | [Instructions](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/tree/click-game/exercise/click-game)|
 | Solutions| [Code](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise-solutions/tree/master/exercise/click-game) |
 
-##Memory Game
+## Memory Game
 |  |  |
 | ------------- | ------------- |
 |  branch | [memory](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/tree/memory) |
