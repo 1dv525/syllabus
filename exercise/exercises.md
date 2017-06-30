@@ -24,9 +24,9 @@ The assignments are devided in to seperate levels, A, B and C where C is the mos
 
 ***
 
-##Tiny Tunes
+## Tiny Tunes
 
-| s |  |
+|  |  |
 | ------------- | ------------- |
 |  branch | [tiny-tunes](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/tree/tiny-tunes) |
 | Level  | A  |
@@ -35,7 +35,7 @@ The assignments are devided in to seperate levels, A, B and C where C is the mos
 | Keywords| Getting started, DOM, Events, Templates, Document Fragment|
 | Solutions| [Code](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise-solutions/tree/master/exercise/tiny-tunes) |
 
-##LNU it
+## LNU it
 |  |  |
 | ------------- | ------------- |
 |  branch | [lnu-it](https://github.com/CS-LNU-Learning-Objects/client-side-javascript-exercise/tree/lnu-it) |
