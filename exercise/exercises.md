@@ -12,7 +12,7 @@ Make sure you have watched the introductory demos and resources:
 Exercises are not mandantory and will not be corrected by the corse management. However, you will have a better chance of doing the examination assignments in the course if you first do the exercises. We higly recommend you to complete as many exercises as possible.
 
 ## Vagrant
-We recommend using vagrant as an development environment for the exercises in the course. You can (read more about virutualization here)[//coursepress.lnu.se/kurs/introduction-to-web-programming/resources/virtualization/].
+We recommend using vagrant as an development environment for the exercises in the course. You can [read more about virutualization here](//coursepress.lnu.se/kurs/introduction-to-web-programming/resources/virtualization/).
 
 If you want to use Vagrant follow the instructions in this document
 
@@ -66,7 +66,7 @@ You should have multiple terminals open at the same time. One running the `npm s
 |Solutions| [Code](https://github.com/CS-LNU-Learning-Objects/exercise-lnu-it/tree/solution)|
 
 ## BartBoard
-|  |  |
+| BartBoard |  |
 | ------------- | ------------- |
 |  Repo | [exercise-bartboard](https://github.com/CS-LNU-Learning-Objects/exercise-bartboard) |
 | Level  | A  |
@@ -78,7 +78,7 @@ You should have multiple terminals open at the same time. One running the `npm s
 
 
 ## Temple of DOM
-|  |  |
+|  Temple of DOM  |
 | ------------- | ------------- |
 |  Repo | [exercise-temple-of-dom](https://github.com/CS-LNU-Learning-Objects/exercise-temple-of-dom) |
 | Level  | B  |
