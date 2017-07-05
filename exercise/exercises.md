@@ -23,7 +23,9 @@ You are now ready to start with the exercises.
 
 The exercises are devided in to seperate levels, A, B and C where C is the most difficult level. You should always strive to complete at least level A and B.
 
-1. Add the exercise/exercises you want to work on by doing a `git subtree add --prefix={reponame} --squash {link to repo} master`. For example, to start with "tiny-tunes do": `git subtree add --prefix=tiny-tunes --squash https://github.com/CS-LNU-Learning-Objects/exercise-tiny-tunes.git master`
+1. Add the exercise/exercises you want to work on by doing a 
+ * `git subtree add --prefix={reponame} --squash {link to repo} master`. For example, to start with "tiny-tunes do": 
+ * `git subtree add --prefix=tiny-tunes --squash https://github.com/CS-LNU-Learning-Objects/exercise-tiny-tunes.git master`
 2. Navigate to the folder created. `cd tiny-tunes`
 3. Do a `npm install` to install the exercise dependencies. 
 2. Do `npm start`. The following will happen:
