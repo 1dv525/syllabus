@@ -4,7 +4,7 @@ Make sure you have watched the introductory demos and resources:
 *Will update before HT2017*
 
 * [Getting started (resource)](https://coursepress.lnu.se/kurs/introduction-to-web-programming/getting-started/)
-* [Starting out with the exercises (YouTube)](https://youtu.be/hTGhzYGqLKI)
+* [Starting out with the exercises (YouTube)](https://youtu.be/2l8EpHhPDOk)
 
 ## Getting started
 Exercises are not mandantory and will not be corrected by the corse management. However, you will have a better chance of doing the examination assignments in the course if you first do the exercises. We higly recommend you to complete as many exercises as possible.
