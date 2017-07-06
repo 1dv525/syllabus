@@ -1,8 +1,6 @@
 ## Before you start
 Make sure you have watched the introductory demos and resources:
 
-*Will update before HT2017*
-
 * [Getting started (resource)](https://coursepress.lnu.se/kurs/introduction-to-web-programming/getting-started/)
 * [Starting out with the exercises (YouTube)](https://youtu.be/2l8EpHhPDOk)
 
