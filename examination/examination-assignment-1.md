@@ -2,7 +2,7 @@ This examination is worth 1 credit (1hp) and will test the following objective:
 - create web pages using html and css
 
 ### Deadline and submission
-* Deadline: 2016-09-12 12.00
+* Deadline: 2017-09-12 12.00
 * Submit: Submit your assignment by doing a release on GitHub named "v1.0". In case of changes after a released version please use incremental version numbers, i.e. "v1.1", "v1.22 etc.
 * OBS! **You must commit all your code to GitHub** (not using some upload form) and make sure that your web site is visible through your *public* URL like https://1dv525.github.io/xx222xx-examination-1/ where xx222xx is your username at LNU. Follow [this guide](https://coursepress.lnu.se/kurs/introduction-to-web-programming/github-pages/) to see how.
 
