@@ -2,7 +2,7 @@ This examination is worth 1 credit (1hp) and will test the following objective:
 - create web pages using html and css
 
 ### Deadline and submission
-* Deadline: 2017-09-12 12.00
+* Deadline: 2017-09-14 12.00
 * Submit: Submit your assignment by doing a release on GitHub named "v1.0". In case of changes after a released version please use incremental version numbers, i.e. "v1.1", "v1.22 etc.
 * OBS! **You must commit all your code to GitHub** (not using some upload form) and make sure that your web site is visible through your *public* URL like https://1dv525.github.io/xx222xx-examination-1/ where xx222xx is your username at LNU. Follow [this guide](https://coursepress.lnu.se/kurs/introduction-to-web-programming/github-pages/) to see how.
 
@@ -74,8 +74,5 @@ Whitout to mutch effort (in code) you should be able to add articles to your blo
 * What is Open Graph and how do you make use of it?
 * Why is it important to seperate the layout and design (css) from content (html)?
 
-## Oral hearing
-The examination will be done as an oral hearing where you get a couple of theoretical questions from this part (Lecture 1 and 2, HTML & CSS, not the JavaScript lectures) and also show your practical assignment. You can´t book a time for oral hearing before you are ready with the assignment and have done a release on GitHub.
-
-* Campus students Växjö: Conference rooms in the B-buildning
-* Distans students: Skype. Meetup: [Adobe Connect Exam room](	https://connect.sunet.se/exam-1dv525/)
+## Examination
+The first examination assignment will not have an oral hearing. We will look at the code and give you feedback using Issues in Github. Make sure to check for comments on github.
