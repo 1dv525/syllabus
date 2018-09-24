@@ -39,13 +39,12 @@ You should have multiple terminals open at the same time. One running the `npm s
 3. The webpage at [http://localhost:4000](http://localhost:4000) should be automaticly reloaded. If not, refresh the browser.
 4. When you debug your application you should to this in the browser, not in the IDE. A simple method is to write `debugger` in your js-source code where you want to stop the debugger and refresh the browser. Sourcemapping will make sure that linenumbers in the compiled-code matches your local version.
 
-
 ***
-Get started by watchning this recording:
-- [Hello World](https://youtu.be/6hulSdvn3Mg)
-
 
 ## Tiny Tunes
+Get started by watchning this recording:
+- [Hello World](https://youtu.be/6hulSdvn3Mg)
+  
 |  |  |
 | ------------- | ------------- |
 |  Repo | [exercise-tiny-tunes](https://github.com/CS-LNU-Learning-Objects/exercise-tiny-tunes) |
