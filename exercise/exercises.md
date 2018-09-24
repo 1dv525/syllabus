@@ -2,7 +2,10 @@
 Make sure you have watched the introductory demos and resources:
 
 * [Getting started (resource)](https://coursepress.lnu.se/kurs/introduction-to-web-programming/getting-started/)
-* [Starting out with the exercises (YouTube)](https://youtu.be/2l8EpHhPDOk)
+
+
+Starting out with the exercises:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2l8EpHhPDOk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Getting started
 Exercises are not mandantory and will not be corrected by the corse management. However, you will have a better chance of doing the examination assignments in the course if you first do the exercises. We higly recommend you to complete as many exercises as possible.
@@ -47,7 +50,7 @@ You should have multiple terminals open at the same time. One running the `npm s
 | Study week  | 3-4 |
 | Lectures| <= L06 |
 | Keywords| Getting started, DOM, Events, Templates, Document Fragment|
-| Solutions| [Code](https://github.com/CS-LNU-Learning-Objects/exercise-tiny-tunes/tree/solution) |
+| Solutions| [Extended recording](https://youtu.be/62MHJjvvur4) |
 
 ## LNU it
 |  |  |
@@ -70,7 +73,7 @@ You should have multiple terminals open at the same time. One running the `npm s
 | Lectures| <= L06 |
 | Keywords| DOM, event, timers|
 | Readme | [Instructions](https://github.com/CS-LNU-Learning-Objects/exercise-bartboard/blob/master/README.md)|
-| Solutions | [Extended recording](https://youtu.be/I7HJwo98EQE)|
+| Solutions | [Recording Part 1 (DOM)](https://youtu.be/jBLruMu5pOs)<br>[Recording Part 2 (Custom Elements)](https://youtu.be/7fAUyQJsOLQ)|
 
 
 ## Temple of DOM
@@ -94,6 +97,17 @@ You should have multiple terminals open at the same time. One running the `npm s
 | Keywords| DOM, style manipulation, event, timers|
 | Readme | [Instructions](https://github.com/CS-LNU-Learning-Objects/exercise-click-game/blob/master/README.md)|
 | Solutions| [Code](https://github.com/CS-LNU-Learning-Objects/exercise-click-game/tree/solution) |
+
+## Autocomplete
+|  |  |
+| ------------- | ------------- |
+|  Repo | [exercise-autocomplete](https://github.com/CS-LNU-Learning-Objects/exercise-autocomplete) |
+| Level  | B  |
+| Study week  | 2-3 |
+| Lectures| <= L04 |
+| Keywords| DOM, style manipulation, event, async/await, fetch|
+| Readme | [Instructions](https://github.com/CS-LNU-Learning-Objects/exercise-autocomplete/blob/master/README.md)|
+| Solutions | Code<br>[Extended recording](https://youtu.be/akFlBJh5J1U)|
 
 ## Memory Game
 |  |  |
