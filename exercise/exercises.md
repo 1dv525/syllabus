@@ -41,6 +41,9 @@ You should have multiple terminals open at the same time. One running the `npm s
 
 
 ***
+Get started by watchning this recording:
+- [Hello World](https://youtu.be/6hulSdvn3Mg)
+
 
 ## Tiny Tunes
 |  |  |
