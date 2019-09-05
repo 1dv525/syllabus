@@ -7,6 +7,7 @@ A brief introduction to the course. This is a good starting point for the course
 ## Resources
 - [HTML-presentation](https://rawgit.com/1dv525/syllabus/master/lectures/intro/index.html#/)
 
+- [Recording](https://youtu.be/ype6gFJzLDY?t=745) 2019-09-04 13:15-15:!5 (Youtube)
 - [Recording](https://youtu.be/x4jT_UrvP2Y) 2017, 48 min (Youtube)
 
 ## Course evaluations
