@@ -63,7 +63,7 @@ IMAGE 2.1
 
 
 ## Part 3 - other stuff
-* You should use open graph for easy sharing on social media. You should at least use "title", "url", "type" and "image". You can check if it is working by sharing your site on for instance Facebook or Twitter. You should use open graph for easy sharing on social media. You should at least use "title", "url", "type" and "image". You can check if it is working by sharing your site on for instance Facebook or Twitter.
+* You should use open graph for easy sharing on social media. You should at least use "title", "url", "type" and "image". You can check if it is working by sharing your site on for instance Facebook or Twitter. You should use open graph for easy sharing on social media. You can check if it is working by sharing your site on for instance Facebook or Twitter.
 * Learn about and create a robots.txt for your site. The contact page should not be indexed by search engines
 * Learn about and create a humans.txt for your site
 
