@@ -7,7 +7,7 @@ Make sure you have watched the introductory demos and resources:
 Starting out with the exercises:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2l8EpHhPDOk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-###
+### ESM Modules
 An important note regarding `require`. Since 2018 we have shifted from using "node modules" using "require" to using Ecma script modules, ESM and the keyword `import`. Do not use require as I do in my examples, instead please use import. Make sure to look at my explenations in the lecture "L05 - Javascript and the browser".
 
 ## Getting started
