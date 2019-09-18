@@ -3,14 +3,14 @@ Make sure you have watched the introductory demos and resources:
 
 * [Getting started (resource)](https://coursepress.lnu.se/kurs/introduction-to-web-programming/getting-started/)
 
+## Getting started
 
 Starting out with the exercises:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2l8EpHhPDOk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/329IAoTGrsg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### ESM Modules
-An important note regarding `require`. Since 2018 we have shifted from using "node modules" using "require" to using Ecma script modules, ESM and the keyword `import`. Do not use require as I do in my examples, instead please use import. Make sure to look at my explenations in the lecture "L05 - Javascript and the browser".
+An important note regarding `require`. Since 2018 we have shifted from using "node modules" using "require" to using Ecma script modules, ESM and the keyword `import`. Do not use require as I do in some of my examples, instead please use import. Make sure to look at my explenations in the lecture "L05 - Javascript and the browser".
 
-## Getting started
 Exercises are not mandantory and will not be corrected by the corse management. However, you will have a better chance of doing the examination assignments in the course if you first do the exercises. We higly recommend you to complete as many exercises as possible.
 
 You have a git repo on Github named "xx222yy-exercises" where xx222yy is your lnu-username. You can use this repo for the exercises in the course. Start of by cloning the repo to your computer:
